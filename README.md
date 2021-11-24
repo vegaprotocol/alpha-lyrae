@@ -45,27 +45,24 @@ When all letters are pixelated the lookup ”Scenario03” tries to bring variet
 # Usage
 
 ## Web
-[4A-Fonts](./4A-Fonts) contains the following for web development:
-
-We include `.woff2`, `.woff`, and `.eot` files.
-
-
+Alpha Lyrae is avaialble in `.woff`, `.woff2` and `.eot` on the [release page](https://github.com/vegaprotocol/alpha-lyrae/releases).
+
 ## MacOS
 
 ### Using Font Book:
-1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
+1. Download `AlphaLyrae-Medium.ttf` from the [release page](https://github.com/vegaprotocol/alpha-lyrae/releases).
 2. Open the "Font Book" application.
 3. In the main menu, select File, then Add Fonts...
 4. Find the "Alpha Lyrae" font in your Downloads folder and press the Open button.
 
 ### Using Finder:
-1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
+1. Download `AlphaLyrae-Medium.ttf` from the [release page](https://github.com/vegaprotocol/alpha-lyrae/releases).
 3. Press `cmd-shift-G` in Finder and go to: `~/Library/Fonts`
 4. Delete any existing "Alpha Lyrae" files
 5. Paste the font file
 
 ## Windows
-1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
+1. Download `AlphaLyrae-Medium.ttf` from the [release page](https://github.com/vegaprotocol/alpha-lyrae/releases).
 2. Right-click on the font in your Download folder and choose "Install for all users".
 
 If you have a previous installation of Alpha Lyrae, you should make sure
@@ -92,12 +89,12 @@ differently. These instructions are for the most common Linux distributions:
 
 1. Create a folder called ".fonts" in your home directory.
    Example: `mkdir -p ~/.fonts`
-2. Copy the [AlphaLyrae-Medium.otf](./4A-Fonts/AlphaLyrae-Medium.otf) file into your `.fonts` directory
+2. Copy `AlphaLyrae-Medium.otf` from the [release page](https://github.com/vegaprotocol/alpha-lyrae/releases) into your `.fonts` directory
    Example: `cp "AlphaLyrae-Medium.otf" ~/.fonts/`
 
 You may have to restart apps and/or your window server session.
 
-Again, these instructions are for the most common Linux distributuons like
+Again, these instructions are for the most common Linux distributions like
 Ubuntu and might not apply to you. Refer to the documentation for your
 distribution for more details on how to manage fonts in your OS.
 
@@ -121,6 +118,8 @@ distribution for more details on how to manage fonts in your OS.
 ![multi-lyrae](https://user-images.githubusercontent.com/6678/142732686-a662004e-5be6-4bff-b043-e01d89f2ca90.png)
 
 --- 
+
+Alpha Lyrae was designed by [fontfabric](https://www.fontfabric.com)
 
 # License
 See [LICENSE.md](./LICENSE.md)
