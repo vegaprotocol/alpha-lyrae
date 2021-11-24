@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+	<advance width="549"/>
+	<unicode hex="0149"/>
+	<note>
+		blue must check
+	</note>
+	<outline>
+		<contour>
+			<point x="-27" y="526" type="line"/>
+			<point x="35" y="526" type="line"/>
+			<point x="89" y="706" type="line"/>
+			<point x="2" y="706" type="line"/>
+		</contour>
+		<component base="n"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

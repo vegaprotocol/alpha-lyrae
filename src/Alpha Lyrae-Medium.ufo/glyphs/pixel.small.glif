@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pixel.small" format="2">
+	<advance width="85"/>
+	<outline>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="42.5" y="0" type="line"/>
+			<point x="42.5" y="42.5" type="line"/>
+			<point x="0" y="42.5" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave.ss04" format="2">
+	<advance width="551"/>
+	<outline>
+		<component base="E.ss04"/>
+		<component base="gravecomb.case.ss01" xOffset="121"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex.ss01" format="2">
+	<advance width="595"/>
+	<guideline x="85" y="672" angle="90"/>
+	<outline>
+		<component base="h.ss01"/>
+		<component base="circumflexcomb.case.ss01" xOffset="-102"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

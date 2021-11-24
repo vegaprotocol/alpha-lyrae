@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute.ss05" format="2">
+	<advance width="588"/>
+	<outline>
+		<component base="y.ss05"/>
+		<component base="acutecomb.ss01" xOffset="159"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

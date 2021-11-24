@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent.ss02" format="2">
+	<advance width="554"/>
+	<outline>
+		<component base="z.ss02"/>
+		<component base="dotaccentcomb" xOffset="201"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

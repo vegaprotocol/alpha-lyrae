@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+	<advance width="270"/>
+	<unicode hex="013E"/>
+	<note>
+		blue must check
+	</note>
+	<outline>
+		<contour>
+			<point x="199" y="526" type="line"/>
+			<point x="261" y="526" type="line"/>
+			<point x="301" y="706" type="line"/>
+			<point x="214" y="706" type="line"/>
+		</contour>
+		<component base="l" xOffset="-5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=dcaron+25</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss02" format="2">
+	<advance width="280"/>
+	<guideline x="85" y="703" angle="90"/>
+	<outline>
+		<component base="l.ss02"/>
+		<component base="acutecomb.case.ss01" xOffset="-17"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

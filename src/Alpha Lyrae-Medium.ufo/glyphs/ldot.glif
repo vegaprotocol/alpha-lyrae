@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+	<advance width="343"/>
+	<unicode hex="0140"/>
+	<outline>
+		<contour>
+			<point x="228" y="299" type="line"/>
+			<point x="314" y="299" type="line"/>
+			<point x="314" y="401" type="line"/>
+			<point x="228" y="401" type="line"/>
+		</contour>
+		<component base="l" xOffset="-5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

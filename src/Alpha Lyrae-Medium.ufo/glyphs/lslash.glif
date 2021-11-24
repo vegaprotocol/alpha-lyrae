@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+	<advance width="298"/>
+	<unicode hex="0142"/>
+	<note>
+		blue must check
+	</note>
+	<outline>
+		<contour>
+			<point x="43" y="279" type="line"/>
+			<point x="269" y="381" type="line"/>
+			<point x="240" y="442" type="line"/>
+			<point x="14" y="341" type="line"/>
+		</contour>
+		<component base="l" xOffset="29"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+	<advance width="561"/>
+	<unicode hex="0127"/>
+	<note>
+		blue must check
+	</note>
+	<outline>
+		<contour>
+			<point x="-2" y="577" type="line"/>
+			<point x="353" y="577" type="line"/>
+			<point x="353" y="645" type="line"/>
+			<point x="-2" y="645" type="line"/>
+		</contour>
+		<component base="h" xOffset="12"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

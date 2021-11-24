@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>706</integer>
+	<key>capHeight</key>
+	<integer>706</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2021 by Svet Simov. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-204</integer>
+	<key>familyName</key>
+	<string>Alpha Lyrae</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>296</integer>
+			<key>y</key>
+			<integer>-8</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>458</integer>
+			<key>y</key>
+			<integer>-8</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>90</integer>
+			<key>x</key>
+			<integer>-74</integer>
+			<key>y</key>
+			<integer>216</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>205</integer>
+			<key>y</key>
+			<integer>605</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/11/08 11:01:24</string>
+	<key>openTypeHheaAscender</key>
+	<integer>970</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-280</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>125</integer>
+	<key>openTypeNameDescription</key>
+	<string>Copyright © 2021 by Fontfabric. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Nikolay Petroussenko, Plamen Motev</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.fontfabric.com</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Fontfabric LLC</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.fontfabric.com</string>
+	<key>openTypeOS2Type</key>
+	<array/>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>970</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-280</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>125</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>6</integer>
+		<integer>29</integer>
+		<integer>31</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>38</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>FBRC</string>
+	<key>openTypeOS2WinAscent</key>
+	<integer>970</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>280</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-16.0</real>
+		<real>0.0</real>
+		<real>510.0</real>
+		<real>526.0</real>
+		<real>706.0</real>
+		<real>706.0</real>
+		<real>722.0</real>
+		<real>722.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>AlphaLyrae-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-220.0</real>
+		<real>-204.0</real>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<real>72.0</real>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<real>85.0</real>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>510</integer>
+</dict>
+</plist>

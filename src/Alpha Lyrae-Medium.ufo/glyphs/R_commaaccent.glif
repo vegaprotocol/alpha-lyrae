@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcommaaccent" format="2">
+	<advance width="679"/>
+	<unicode hex="0156"/>
+	<outline>
+		<component base="R"/>
+		<component base="commaaccentcomb.case" xOffset="204"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>R</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>R</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

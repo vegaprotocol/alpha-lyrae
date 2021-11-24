@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb.case" format="2">
+	<advance width="232"/>
+	<anchor x="110" y="680" name="_top"/>
+	<outline>
+		<contour>
+			<point x="66" y="771" type="curve"/>
+			<point x="151" y="771" type="line"/>
+			<point x="151" y="843"/>
+			<point x="164" y="903"/>
+			<point x="180" y="953" type="curve"/>
+			<point x="119" y="953" type="line"/>
+			<point x="90" y="906"/>
+			<point x="72" y="846"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

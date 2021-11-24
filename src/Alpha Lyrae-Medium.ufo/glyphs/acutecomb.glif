@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+	<advance width="296"/>
+	<unicode hex="0301"/>
+	<anchor x="125" y="510" name="_top"/>
+	<anchor x="125" y="730" name="top"/>
+	<outline>
+		<contour>
+			<point x="63" y="588" type="line"/>
+			<point x="128" y="588" type="line"/>
+			<point x="252" y="730" type="line"/>
+			<point x="144" y="730" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

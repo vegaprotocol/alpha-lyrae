@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+	<advance width="256"/>
+	<unicode hex="00B7"/>
+	<outline>
+		<contour>
+			<point x="80" y="309" type="line"/>
+			<point x="176" y="309" type="line"/>
+			<point x="176" y="411" type="line"/>
+			<point x="80" y="411" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij.ss04" format="2">
+	<advance width="496"/>
+	<outline>
+		<component base="i.ss04"/>
+		<component base="j.ss04" xOffset="258"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave.ss03" format="2">
+	<advance width="574"/>
+	<outline>
+		<component base="a.ss03"/>
+		<component base="gravecomb.ss01" xOffset="47" yOffset="-4"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

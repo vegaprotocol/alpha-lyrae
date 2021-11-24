@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.ss01" format="2">
+	<advance width="340"/>
+	<anchor x="127" y="510" name="_top"/>
+	<anchor x="170" y="791" name="top"/>
+	<outline>
+		<component base="gravecomb.ss01" xScale="-1" xOffset="340"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

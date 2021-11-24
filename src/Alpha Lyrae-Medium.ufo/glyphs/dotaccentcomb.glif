@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+	<advance width="231"/>
+	<unicode hex="0307"/>
+	<anchor x="114" y="510" name="_top"/>
+	<anchor x="114" y="706" name="top"/>
+	<outline>
+		<contour>
+			<point x="71" y="606" type="line"/>
+			<point x="157" y="606" type="line"/>
+			<point x="157" y="706" type="line"/>
+			<point x="71" y="706" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

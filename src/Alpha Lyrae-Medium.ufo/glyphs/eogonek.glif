@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="2">
+	<advance width="555"/>
+	<unicode hex="0119"/>
+	<anchor x="278" y="510" name="top"/>
+	<outline>
+		<contour>
+			<point x="286" y="-12" type="curve" smooth="yes"/>
+			<point x="406" y="-12"/>
+			<point x="465" y="48"/>
+			<point x="498" y="136" type="curve"/>
+			<point x="416" y="165" type="line"/>
+			<point x="395" y="101"/>
+			<point x="363" y="63"/>
+			<point x="288" y="63" type="curve" smooth="yes"/>
+			<point x="190" y="63"/>
+			<point x="120" y="120"/>
+			<point x="120" y="255" type="curve" smooth="yes"/>
+			<point x="120" y="374"/>
+			<point x="186" y="447"/>
+			<point x="272" y="447" type="curve" smooth="yes"/>
+			<point x="358" y="447"/>
+			<point x="414" y="384"/>
+			<point x="421" y="274" type="curve"/>
+			<point x="452" y="303" type="line"/>
+			<point x="108" y="303" type="line"/>
+			<point x="108" y="231" type="line"/>
+			<point x="506" y="231" type="line"/>
+			<point x="511" y="402"/>
+			<point x="423" y="522"/>
+			<point x="272" y="522" type="curve" smooth="yes"/>
+			<point x="131" y="522"/>
+			<point x="36" y="402"/>
+			<point x="36" y="257" type="curve" smooth="yes"/>
+			<point x="36" y="97"/>
+			<point x="121" y="-12"/>
+		</contour>
+		<contour>
+			<point x="361" y="-215" type="curve" smooth="yes"/>
+			<point x="392" y="-215"/>
+			<point x="424" y="-207"/>
+			<point x="448" y="-190" type="curve"/>
+			<point x="426" y="-128" type="line"/>
+			<point x="413" y="-138"/>
+			<point x="397" y="-145"/>
+			<point x="381" y="-145" type="curve" smooth="yes"/>
+			<point x="355" y="-145"/>
+			<point x="343" y="-132"/>
+			<point x="343" y="-112" type="curve" smooth="yes"/>
+			<point x="343" y="-82"/>
+			<point x="375" y="-40"/>
+			<point x="456" y="60" type="curve"/>
+			<point x="407" y="90" type="line"/>
+			<point x="307" y="-23"/>
+			<point x="265" y="-76"/>
+			<point x="265" y="-130" type="curve" smooth="yes"/>
+			<point x="265" y="-177"/>
+			<point x="296" y="-215"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>e</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>
