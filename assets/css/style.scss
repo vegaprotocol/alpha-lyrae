@@ -1,0 +1,107 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+  font-family: 'AlphaLyrae';
+  src: url('../fonts/AlphaLyrae-Medium.woff2') format('woff2'),
+    url('../fonts/AlphaLyrae-Medium.woff') format('woff');
+  font-style: normal;
+}
+
+@font-feature-values 'AlphaLyrae' { 
+  @styleset { ss01: 1; ss02: 2; ss03: 3; ss04: 4; ss05: 5 } 
+}
+
+@supports(font-variant-alternates: styleset(ss02)) {
+  .show-if-variant-alternates-supported {
+    color: #f00;
+  }
+
+  .hide-if-variant-alternates-supported {
+    display: none;
+  } 
+
+  .show-if-no-variant-alternates-supported {
+    display: none;
+  }
+}
+
+@supports not (font-variant-alternates: styleset(ss02)) {
+  .hide-if-no-variant-alternates-support {
+    display: none;
+  }
+
+  .show-if-no-variant-alternates-supported {
+    color: #f00;
+  }
+
+}
+
+
+.ss01 {
+  font-variant-alternates: styleset(ss01);
+}
+
+.ss02 {
+  font-variant-alternates: styleset(ss02);
+}
+
+.ss03 {
+  font-variant-alternates: styleset(ss03);
+}
+
+.ss04 {
+  font-variant-alternates: styleset(ss04);
+}
+
+.ss05 {
+  font-variant-alternates: styleset(ss05);
+}
+
+.wrapper {
+  font-family: 'AlphaLyrae', sans-serif;
+}
+
+// Themeing
+.theme-wrap {
+  padding: 0.5em 1em;
+}
+
+[id="white"]:checked ~ .theme-wrap {
+  background: transparent;
+}
+
+[id="yob"]:checked ~ .theme-wrap {
+  background: rgb(0,0,0);
+  color: rgb(223,255,11);
+}
+
+  [id="yob"]:checked ~ .theme-wrap h2 {
+    color: rgb(223,255,11);
+  }
+
+[id="boy"]:checked ~ .theme-wrap {
+  color: rgb(0,0,0);
+  background: rgb(223,255,11);
+}
+
+[id="pob"]:checked ~ .theme-wrap {
+  background: rgb(0,0,0);
+  color: rgb(255,7,127);
+}
+
+  [id="pob"]:checked ~ .theme-wrap h2 {
+    color: rgb(255,7,127);
+  }
+
+[id="gob"]:checked ~ .theme-wrap {
+  background: rgb(0,0,0);
+  color: rgb(0,246,127);
+}
+
+  [id="gob"]:checked ~ .theme-wrap h2 {
+    color: rgb(0,246,127);
+  }
+
