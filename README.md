@@ -121,6 +121,9 @@ distribution for more details on how to manage fonts in your OS.
 
 Alpha Lyrae was designed by [fontfabric](https://www.fontfabric.com)
 
+# Playground
+You can try out the fonts online at [vegaprotocol.github.io/alpha-lyrae](https://vegaprotocol.github.io/alpha-lyrae).
+
 # License
 See [LICENSE.md](./LICENSE.md)
 
