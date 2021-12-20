@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Alpha Lyrae
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: true
+plugins:
+- jekyll-remote-theme 
