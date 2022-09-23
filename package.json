@@ -1,7 +1,7 @@
 {
     "name": "alpha-lyrae",
     "version": "1.0.0",
-    "license": "MIT",
+    "license": "OFL-1.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/vegaprotocol/alpha-lyrae.git"
